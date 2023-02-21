@@ -1,0 +1,16 @@
+#form {
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+#btn-enviar {
+color: whitesmoke;
+background-color: blue;
+width: 80px;
+height: 40px;
+cursor: pointer;
+
+}
+
+
